@@ -1,0 +1,17 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus;AdjudicatedValue;ResolutionType;PostDiscussAgreementstatus;KeyEvidence;Comments
+;;;;;;;;;;;
+mic-dkfz_nnunet;ltipto11;hneel;HasRecovered;no;yes;no;yes;ValidatorKept;yes;png graph shape & project stats csv;
+ofloveandhate_paramotopy;ltipto11;hneel;HasRecovered;yes;no;no;no;ValidatorKept;yes;png graph shape & project stats csv;
+;;;;;;;;;;;
+cambridgemolecularengineering_tabledataextractor;ltipto11;hneel;WhyRecovered;"they updated versions and pinned numpy below 2.0, then bumped the version. It was probably numpy 2.0 breaking installs that brought them back.";N/A - Not Recovered;no;N/A - Not Recovered;ValidatorKept;yes;project gap commits csv;WhyRecovered is not supposed to be filled if not recovered
+ofloveandhate_paramotopy;ltipto11;hneel;WhyRecovered;"In 2020 the commits were mostly updating their new name in the manual and welcome screen, then a small cleanup in Oct 2022. Real work only came back in 2025 with matlab code and examples, switching the build to cmake, and fixing the old 2019 issues, plus a commit saying it's now syncing to an MPI gitlab";N/A - Not Recovered;no;N/A - Not Recovered;ValidatorKept;yes;project gap commits csv;WhyRecovered is not supposed to be filled if not recovered
+ros-perception_slam_gmapping;ltipto11;hneel;WhyRecovered;in Aug 2024 a new contributor sent a PR to fix an issue but that was it basically for recovery;N/A - Not Recovered;no;N/A - Not Recovered;ValidatorKept;yes;project gap commits csv;WhyRecovered is not supposed to be filled if not recovered
+;;;;;;;;;;;
+mantidproject_mantid;ltipto11;hneel;ActivityPattern;declining;steady;no;steady;ValidatorKept;yes;png graph shape;
+ofloveandhate_paramotopy;ltipto11;hneel;ActivityPattern;irregular;declining;no;declining;ValidatorKept;yes;png graph shape;
+qiskit_openqasm;ltipto11;hneel;ActivityPattern;U-shaped;rising;no;rising;ValidatorKept;yes;png graph shape;
+ros-perception_slam_gmapping;ltipto11;hneel;ActivityPattern;declining;irregular;no;irregular;ValidatorKept;yes;png graph shape;
+;;;;;;;;;;;
+mantidproject_mantid;ltipto11;hneel;RecentThemes;Automated bot contributions:Feature development;Feature development:Bug Fixes;no;Feature development:Bug Fixes;ValidatorKept;yes;project gap commits csv;
+qzhu2017_pyxtal;ltipto11;hneel;RecentThemes;Bug fixes:Feature development;Documentation updates:Bug fixes;no;Documentation updates:Bug fixes;ValidatorKept;yes;project gap commits csv;
+rafavzqz_geopdes;ltipto11;hneel;RecentThemes;Bug fixes:Documentation updates;Bug fixes:Feature development;no;Bug fixes:Feature development;ValidatorKept;yes;project gap commits csv;
