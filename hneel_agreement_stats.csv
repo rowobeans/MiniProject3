@@ -1,6 +1,6 @@
 Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
-HasRecovered;;;;;;;N/A;
-WhyRecovered;;;;;;;N/A;
-ActivityPattern;;;;;;;N/A;
-Currentstatus;;;;;;;N/A;
-RecentThemes;;;;;;;N/A;
+HasRecovered;80;100;0.52;1.00;2;2;N/A;Number of commits post gap showed the difference
+WhyRecovered;70;100;N/A;N/A;3;3;N/A;Mostly just that non recovered repos shouldn’t have a why recovered
+ActivityPattern;60;100;0.42;1.00;4;4;N/A;Easy visual match for discussion
+Currentstatus;100;100;1.00;1.00;0;0;N/A;No disagreements because the criteria was objective
+RecentThemes;70;100;N/A;N/A;3;3;N/A;Disagreed on only one out of two recent themes each time
