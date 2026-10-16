@@ -1,7 +1,5 @@
-####TODO:
-- write a few paragraphs of validation reflection
-- connect adjudicated labels to patterns seen across projects
-- which signals precede long gaps
-- what triggers recovery
-- when gaps don’t mean project death
-= highlight recurring interpretation pitfalls and how they were resolved.
+Reviewing someone else's opinion of if a project had recovered or not was interesting. My partner took a more "vibe" based approach to assign patterns and labels of if they recovered or not, whereas I looked for concrete and repeatable measurements to assign these labels. This led to my partner ending up agreeing with all of my proposed differences in answers, and I wonder if the discussion would have been different if we both took a more concrete approach to analyzing the repositories.
+
+The biggest difficulty would be assigning a shape to the graphs. "Steady" could be used to describe not having any months of inactivity despite severe spikes in commit amounts, or it could include gaps while looking for a similar level of commits over time. A graph may overall appear to be a shape, but then there's one or two random spikes that through off the whole picture. It could still be assigned that shape or labeled as "irregular". Overall, assigning the pattern of a graph may just be subjective even with my more "concrete" approach to things.
+
+As for before long gaps, the projects seem to be getting ready for a release or the project was half started, but not really worked on until later. Reported bugs, new features, and documentation updates seemed to be the leading cause for a project revival. Sometimes this revival would be temporary, but other times it seemed to reignite the passion the developers once had for the project. Additionally, when a project would be handed over to a new group of people, they too would often work on the project. Overall, shorter gaps even if more frequent seem like they don't lead as often to project death, whereas long gaps, even if only a couple, seem to lead to project death. These patterns reflect a sort of inertia with project development.
